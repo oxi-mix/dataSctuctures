@@ -1,1 +1,17 @@
-/src/main/java/oximix/datsStructures/linkedList/LinkedList.java
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.classpath
+.factorypath
+.project
+.settings
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+.mvn
+.vscode
