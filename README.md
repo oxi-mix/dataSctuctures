@@ -1,3 +1,6 @@
 # dataSctuctures
 
-LinkedList (addFirst, addLast, get, remove) - https://visualgo.net/en/list
+https://visualgo.net/en/list
+
+LinkedList (addFirst, addLast, get, remove)
+Queue (enqueue, dequeue, peek)
